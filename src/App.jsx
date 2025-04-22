@@ -1,7 +1,7 @@
 import React, { useMemo } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
- import Component from "./components/aggrid/AgGridTable";
+ import Component from "./components/callAPIForTimezoen";
 
 const AppRoutes = [
   {
